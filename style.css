@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: darksalmon;
+}
+h3{
+    color: blue;
+    font-size: 30px;
+}
+img{
+    height: 500px;
+    width: 50%;
+border: 5px solid orange;
+}
+h3:hover{
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+    
